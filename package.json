@@ -1,0 +1,15 @@
+{
+  "name": "web3-wallet",
+  "version": "1.0.0",
+  "description": "A simple web3 wallet interaction page",
+  "main": "index.js",
+  "scripts": {
+    "start": "open index.html"
+  },
+  "dependencies": {
+    "web3": "^1.7.3"
+  },
+  "devDependencies": {},
+  "author": "Your Name",
+  "license": "MIT"
+}
